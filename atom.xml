@@ -4,7 +4,7 @@
   <title><![CDATA[My Blog]]></title>
   <link href="http://niuemperor.github.io/atom.xml" rel="self"/>
   <link href="http://niuemperor.github.io/"/>
-  <updated>2016-07-20T11:50:43+08:00</updated>
+  <updated>2016-07-20T11:52:44+08:00</updated>
   <id>http://niuemperor.github.io/</id>
   <author>
     <name><![CDATA[niuemperor]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[first blog]]></title>
+    <title type="html"><![CDATA[First blog]]></title>
     <link href="http://niuemperor.github.io/first-blog.html"/>
     <updated>2016-07-20T10:24:20+08:00</updated>
     <id>http://niuemperor.github.io/first-blog</id>
