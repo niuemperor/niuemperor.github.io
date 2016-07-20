@@ -4,7 +4,7 @@
   <title><![CDATA[My Blog]]></title>
   <link href="http://niuemperor.github.io/atom.xml" rel="self"/>
   <link href="http://niuemperor.github.io/"/>
-  <updated>2016-07-20T10:23:42+08:00</updated>
+  <updated>2016-07-20T10:25:09+08:00</updated>
   <id>http://niuemperor.github.io/</id>
   <author>
     <name><![CDATA[niuemperor]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[first blog]]></title>
+    <link href="http://niuemperor.github.io/first-blog.html"/>
+    <updated>2016-07-20T10:24:20+08:00</updated>
+    <id>http://niuemperor.github.io/first-blog</id>
+    <content type="html"><![CDATA[<p>My first Blog</p>
+
+<p>Ha ha ha</p>
+]]></content>
+  </entry>
   
 </feed>
